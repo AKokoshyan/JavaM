@@ -1,0 +1,15 @@
+*.class
+.metadata
+.metadata/*
+.recommenders
+.recommenders/*
+*bin
+*bin/*
+*.classpath
+*.project
+*.settings
+*.settings/*
+.idea/*
+out/*
+eclipse
+*.rar
